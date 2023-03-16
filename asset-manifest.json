@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emoji-decoder/static/css/main.4e35544b.css",
+    "main.js": "/emoji-decoder/static/js/main.8f5ba7ea.js",
+    "static/js/787.0b30b06d.chunk.js": "/emoji-decoder/static/js/787.0b30b06d.chunk.js",
+    "index.html": "/emoji-decoder/index.html",
+    "main.4e35544b.css.map": "/emoji-decoder/static/css/main.4e35544b.css.map",
+    "main.8f5ba7ea.js.map": "/emoji-decoder/static/js/main.8f5ba7ea.js.map",
+    "787.0b30b06d.chunk.js.map": "/emoji-decoder/static/js/787.0b30b06d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e35544b.css",
+    "static/js/main.8f5ba7ea.js"
+  ]
+}
